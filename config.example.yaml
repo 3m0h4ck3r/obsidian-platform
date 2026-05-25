@@ -1,4 +1,3 @@
-# Obsidian Platform Configuration
 scope:
   domains:
     - "*.example.com"
